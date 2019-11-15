@@ -1,0 +1,99 @@
+*{
+	margin:0 auto;
+	
+}
+.big{
+	width:400px;
+	height:600px;
+	position:relative;
+	overflow: hidden;
+}
+.small{
+	width:2000px;
+	height:500px;
+	position: relative;
+	transition: all 0.35s ease-in-out;
+}
+.background_red_one{
+	width:400px;
+	height:500px;
+	background:red;
+	float:left;
+	left:0;
+}
+.background_red_two{
+	width:400px;
+	height:500px;
+	background:red;
+	float:left;
+	left:0;
+}
+.background_blue{
+	width:400px;
+	height:500px;
+	background:blue;
+	float:left;
+	left:0;
+}
+.background_green{
+	width:400px;
+	height:500px;
+	background:green;
+	float:left;
+	position:;
+	left:0;
+}
+.background_yellow{
+	width:400px;
+	height:500px;
+	background:yellow;
+	float:left;
+	left:0;
+}
+.footer{
+	width:400px;
+	height:50px;
+	position:relative;
+	float:left;
+}
+.button_one{
+	width:20px;
+	height:20px;
+	border-radius: 50%;
+	background: darkgray;
+	float:left;
+	left:0;
+	margin-left: 80px;
+	margin-top: 30px;
+	
+}
+.button_two{
+	width:20px;
+	height:20px;
+	border-radius: 50%;
+	background: darkgray;
+	float:left;
+	left:0;
+	margin-left: 80px;
+	margin-top: 30px;
+}
+.button_three{
+	width:20px;
+	height:20px;
+	border-radius: 50%;
+	background: darkgray;
+	float:left;
+	left:0;
+	margin-left: 80px;
+	margin-top: 30px;
+}
+.button_four{
+	width:20px;
+	height:20px;
+	border-radius: 50%;
+	background: darkgray;
+	float:left;
+	left:0;
+	margin-left: 80px;
+	margin-top: 30px;
+}
